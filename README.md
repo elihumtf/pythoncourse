@@ -15,4 +15,4 @@ Este curso lo iré dividiendo en carpetas para poder aprender de manera organiza
 Empecemos!!!!!!!!
 
 ## Indice del contenido
-1. [Instalación de Python](https://github.com/elihumtf/pythoncourse/01-Instalacion_de_python)
+1. [Instalación de Python](https://github.com/elihumtf/pythoncourse/tree/main/01-Instalacion_de_python)
